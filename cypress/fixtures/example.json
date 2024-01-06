@@ -1,0 +1,8 @@
+{
+  "validUsername" : "standard_user",
+  "validPassword" : "secret_sauce",
+  "invalidUsername": "etst",
+  "invalidPassword": "pass"
+}
+
+

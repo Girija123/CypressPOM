@@ -1,0 +1,17 @@
+{
+  "name": "practicecyp",
+  "version": "1.0.0",
+  "description": "To test automate UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
